@@ -29,3 +29,11 @@ function chooseRecipe(recip){
     });
     $('#recipes').append(option);
 }
+
+function get(recip){
+    switch(recip){
+        case:.....
+        // cale function
+        break;
+    }
+}
